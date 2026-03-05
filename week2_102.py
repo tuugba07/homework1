@@ -170,3 +170,5 @@ print(my_tree.size())
 print(my_tree.height())
 print("Min:", my_tree.find_min())
 print("Max:", my_tree.find_max())
+#deneme
+
