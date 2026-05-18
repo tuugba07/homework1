@@ -1,0 +1,38 @@
+body{
+    background-color: lightgrey;
+}
+
+.card{
+    width:  200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 2px;
+    display: inline-block;
+    margin: 20px;
+
+}
+.card-1{
+    box-shadow:10px 10px;
+}
+.card-2{
+    box-shadow:10px 10px 20px;
+}
+.card-3{
+    box-shadow:10px 10px 20px 10px;
+}
+.card-4{
+    box-shadow:10px 10px 20px 10px red;
+}
+
+.card-5:hover{
+    box-shadow: 10px 10px;
+}
+.card-6:hover{
+    box-shadow: 10px 10px 20px;
+}
+.card-7:hover{
+    box-shadow: 10px 10px 20px 10px;
+}
+.card-8:hover{
+    box-shadow: 10px 10px 20px 10px red;
+}
